@@ -18,3 +18,6 @@ Then there is a very simple implmentation of paper
 [Can GPUs sort strings efficiently!](https://ieeexplore.ieee.org/abstract/document/6799129) using **Thrust** library functions from CUDA\
 This optimized sort gives impressive performance advantage.
 
+Pefromance comparison table for sequential and parallel GPU code is added here:
+![alt text](https://github.com/deepali2806/Parallelizing-Linux-Utitilites/blob/main/images/GPU.png)
+
